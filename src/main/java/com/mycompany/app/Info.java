@@ -1,12 +1,9 @@
-package com.mycompany.app;
+package com.mycompany.Info;
 
-/**
- * Hello world!
- */
-public class App
+public class Info
 {
 
-    private final String message = "Hello World!!!, Nice to meet you";
+    private final String message = "Hello WWorld!!!";
 
     public App() {}
 
